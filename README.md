@@ -1,5 +1,15 @@
 # leetcode-dsa-solutions
 LeetCode solutions in C++ / Java / Python for 190+ problems, organized by topic.
+leetcode-dsa-solutions
+ ├── arrays
+ │    ├── two-sum.cpp
+ │
+ ├── strings
+ │    ├── longest-substring.cpp
+ │
+ ├── linkedlist
+ │    ├── merge-two-sorted-lists.cpp
+ └── README.md
 
 # LeetCode DSA Solutions
 
